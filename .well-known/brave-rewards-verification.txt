@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: masterscavenger.github.io
+Token: de39af596753b6e938ad1c7960067274ddc3d3ea0da16ad43e4b5097de5b8298
